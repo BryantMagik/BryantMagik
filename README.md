@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bryan Edward</h1>
 <h3 align="center">A passionate backend developer</h3>
+Hello everyone!
+
+My name is Bryan Edward, and I'm on a journey to become a skilled web developer. Currently, I'm immersed in my studies, pursuing a degree in web development. I have a fervent enthusiasm for exploring and mastering new technologies to craft innovative and functional web experiences.
+
+While my focus lies in designing and implementing web applications, both on the frontend and backend, I'm currently honing my skills in frameworks like Bootstrap to create visually appealing and responsive websites. Although I haven't yet delved into React and Vue.js, I'm eager to explore them in the near future to broaden my toolkit and enhance my development capabilities.
+
+I'm passionate about collaborating on exciting projects and am always on the lookout for opportunities to expand my knowledge and grow professionally within the realm of web development.
+
+Feel free to connect with me if you have intriguing project ideas or if you're seeking a dedicated team member to contribute to your endeavors!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
