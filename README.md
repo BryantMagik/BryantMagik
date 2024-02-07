@@ -1,35 +1,47 @@
-<h1 align="center">Hi 👋, I'm Bryan Edward</h1>
+<h1 align="center">Hi there! 👋 I'm Bryan Edward</h1>
+
 <h3 align="center">A passionate backend developer</h3>
-<p>Hello everyone!
 
-My name is Bryan Edward, and I'm on a journey to become a skilled web developer. Currently, I'm immersed in my studies, pursuing a degree in web development. I have a fervent enthusiasm for exploring and mastering new technologies to craft innovative and functional web experiences.
+<p align="center">Welcome to my GitHub profile! I'm currently pursuing a degree in web development and deeply passionate about building innovative web experiences.</p>
 
-While my focus lies in designing and implementing web applications, both on the frontend and backend, I'm currently honing my skills in frameworks like Bootstrap to create visually appealing and responsive websites. Although I haven't yet delved into React and Vue.js, I'm eager to explore them in the near future to broaden my toolkit and enhance my development capabilities.
+### About Me
 
-I'm passionate about collaborating on exciting projects and am always on the lookout for opportunities to expand my knowledge and grow professionally within the realm of web development.
+- 🌱 I'm constantly learning and exploring new technologies.
+- 💼 Open to collaboration on exciting projects.
+- 📫 Reach out to me: [bryanedwardse@gmail.com](mailto:bryanedwardse@gmail.com)
 
-Feel free to connect with me if you have intriguing project ideas or if you're seeking a dedicated team member to contribute to your endeavors!
-</p>
-<h3 align="left">Connect with me: bryanedwardse@gmail.com</h3>
+### Tech Stack
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 Mis Stats:
-![](https://github-readme-stats.vercel.app/api?username=BryantMagik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BryantMagik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BryantMagik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BryantMagik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### GitHub Stats
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Bryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BryantMagik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Bryan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BryantMagik&theme=dark&hide_border=false)
+![Bryan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryantMagik&theme=dark&hide_border=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BryantMagik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### GitHub Trophies
 
----
-[![](https://visitcount.itsvg.in/api?id=BryantMagik&icon=2&color=0)](https://visitcount.itsvg.in)
+![Bryan's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BryantMagik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Random Dev Quote
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### Top Contributed Repo
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=BryantMagik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### Visitor Count
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=BryantMagik&icon=2&color=0)](https://visitcount.itsvg.in)
+
+
