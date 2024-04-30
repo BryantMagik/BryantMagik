@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Bryan Edward</h1>
 
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">Becoming a full-stack web developer</h3>
 
 <p align="center">Welcome to my GitHub profile! I'm currently pursuing a degree in web development and deeply passionate about building innovative web experiences.</p>
 
