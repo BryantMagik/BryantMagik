@@ -23,19 +23,4 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### GitHub Stats
-
-
-![Bryan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BryantMagik&theme=dark&hide_border=false)
-![Bryan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryantMagik&theme=dark&hide_border=false&layout=compact)
-
-### GitHub Trophies
-
-![Bryan's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BryantMagik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### Random Dev Quote
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 
